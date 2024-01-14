@@ -1,0 +1,14 @@
+C:\Users\ahmad\Desktop\Repo\allprectice\bin\Debug\net8.0\allprectice.exe
+C:\Users\ahmad\Desktop\Repo\allprectice\bin\Debug\net8.0\allprectice.deps.json
+C:\Users\ahmad\Desktop\Repo\allprectice\bin\Debug\net8.0\allprectice.runtimeconfig.json
+C:\Users\ahmad\Desktop\Repo\allprectice\bin\Debug\net8.0\allprectice.dll
+C:\Users\ahmad\Desktop\Repo\allprectice\bin\Debug\net8.0\allprectice.pdb
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\allprectice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\allprectice.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\allprectice.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\allprectice.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\allprectice.dll
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\refint\allprectice.dll
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\allprectice.pdb
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\allprectice.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\Repo\allprectice\obj\Debug\net8.0\ref\allprectice.dll
